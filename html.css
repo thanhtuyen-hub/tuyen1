@@ -1,0 +1,15 @@
+body{
+    bgcolor="#d1e0e0" ;
+    background-image: url('xe4.jpg');
+    background-size: cover;
+  }
+center{
+  background-color: #8ef5a6;
+}
+
+.bg{
+  background-color: #ff0066;
+}
+*{
+  background-color: aliceblue;
+}
